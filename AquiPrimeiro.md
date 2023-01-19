@@ -2,11 +2,11 @@
 Olá dev, nosso objetivo é poder avaliar o seu conhecimento independente de sua experiência profissional. 
 # O que precisa saber
 *HTML
-CSS
-Javascript 
-PHP
-MySQl
-Git*
+*CSS
+*Javascript 
+*PHP
+*MySQl
+*Git
 # O que precisa entregar
 Uma micro aplicação.
 # O que avaliaremos
