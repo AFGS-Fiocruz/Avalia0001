@@ -10,10 +10,10 @@ Olá dev, nosso objetivo é poder avaliar o seu conhecimento independente de sua
 # O que precisa entregar
 Uma micro aplicação.
 # O que avaliaremos
-O código limpo, organizado e comentado
+* O código limpo, organizado e comentado
 Modularizado
 A lógica aplicada ao negócio
-Uso do API
+Uso do API *
 # Instruções
 Implementar uma tela de cadastro de usuário onde:
 1 - Campo "Nome de usuário", obrigatório e mínimo de 3 e máximo de 20 caracteres
