@@ -20,7 +20,8 @@ Uma micro aplicação.
 * Uso do API
 
 # Instruções
-### Implementar uma tela de cadastro de usuário onde:
+### Implementar um cadastro de usuário
+#### Tela de cadastro de usuário
 1. Campo "Nome de usuário", obrigatório e mínimo de 3 e máximo de 20 caracteres
 2. Campo "Senha", obrigatório e mínino de 8 caracteres
 3. Campo "CEP", obrigatório e, após preenchido, deve buscar alguns dados via API CEP de https://brasilapi.com.br/
@@ -28,4 +29,5 @@ Uma micro aplicação.
 5. Campo "Número", obrigatório e recebe apenas números
 6. Campo "Complemento", não obrigatório
 
+#### Tela de resultado do cadastro
 
