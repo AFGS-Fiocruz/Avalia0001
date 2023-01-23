@@ -11,7 +11,7 @@ Olá dev, nosso objetivo é avaliar seu conhecimento independente de sua experi�
 * Git
 
 # O que precisa entregar
-Uma micro aplicação.
+Uma micro aplicação para cadastro de usuário com parte do preenchimento do formulário automatizada e salvando em uma base de dados.
 
 # O que avaliaremos
 * Código limpo, organizado e comentado
