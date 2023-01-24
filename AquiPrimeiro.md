@@ -13,6 +13,11 @@ Olá dev, nosso objetivo é avaliar seu conhecimento independente de sua experi�
 # O que precisa entregar
 Uma micro aplicação para cadastro de usuário com parte do preenchimento do formulário automatizada e salvando em uma base de dados.
 
+# Como entregar
+### Importante seguir as dicas a baixo
+* Faça um fork deste repositório
+* Crie uma branch com o seu **nome completo** e depois envie-nos o pull request. Se você apenas clonar o repositório não vai conseguir fazer push, sendo  mais complicado fazer o pull request.
+
 # O que avaliaremos
 * Código limpo, organizado e comentado
 * Modularizado
